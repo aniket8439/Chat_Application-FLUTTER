@@ -8,11 +8,9 @@ This is a simple chat application built with Flutter for the frontend and Node.j
 
 2. **Install dependencies**: Run `npm install` to install the required dependencies for the backend.
 
-3. **Set up MongoDB**: Make sure you have MongoDB installed and running locally on your machine. You may need to modify the MongoDB connection URL in `backend/config/db.config.js` if you're using a different setup.
+3. **Start the server**: Run `npm start` to start the backend server. By default, the server will run on port 7777.
 
-4. **Start the server**: Run `npm start` to start the backend server. By default, the server will run on port 7777.
-
-5. **Access the API**: Once the server is running, you can access the API endpoints at `http://localhost:7777`.
+4. **Access the API**: Once the server is running, you can access the API endpoints at `http://localhost:7777`.
 
 ## Setting Up the Frontend
 
